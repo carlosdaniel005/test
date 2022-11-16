@@ -1,0 +1,18 @@
+.title{
+    background-color: aquamarine;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.conteudo{
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.conteudo2{
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius: 5px;
+}
